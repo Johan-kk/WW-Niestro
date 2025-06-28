@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Умные часы Xiaomi Mi Band 7",
+    "price": 3499,
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7"
+  },
+  {
+    "id": 2,
+    "title": "Беспроводные наушники Baseus",
+    "price": 2899,
+    "image": "https://images.unsplash.com/photo-1590650003894-7e3f9fba7b7b"
+  },
+  {
+    "id": 3,
+    "title": "Игровая мышь Logitech G102",
+    "price": 1990,
+    "image": "https://images.unsplash.com/photo-1587202372775-98973fd0bc29"
+  },
+  {
+    "id": 4,
+    "title": "Механическая клавиатура Redragon",
+    "price": 4290,
+    "image": "https://images.unsplash.com/photo-1611186871348-b2b7f46d7e86"
+  },
+  {
+    "id": 5,
+    "title": "Смартфон Poco X5 Pro",
+    "price": 18990,
+    "image": "https://images.unsplash.com/photo-1611078489935-10ec7b6c89e3"
+  },
+  {
+    "id": 6,
+    "title": "Пауэрбанк 20.000 mAh",
+    "price": 2590,
+    "image": "https://images.unsplash.com/photo-1571601031747-6b9cb2036832"
+  },
+  {
+    "id": 7,
+    "title": "Bluetooth колонка JBL",
+    "price": 3790,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90"
+  },
+  {
+    "id": 8,
+    "title": "Пылесос Xiaomi Mi Vacuum",
+    "price": 11290,
+    "image": "https://images.unsplash.com/photo-1616627985729-f0730e305e50"
+  },
+  {
+    "id": 9,
+    "title": "Мини-проектор",
+    "price": 7290,
+    "image": "https://images.unsplash.com/photo-1600850052120-0ac85b9aa88a"
+  },
+  {
+    "id": 10,
+    "title": "Умная лампа Yeelight RGB",
+    "price": 1390,
+    "image": "https://images.unsplash.com/photo-1555617983-ccaa98b1c666"
+  }
+]
