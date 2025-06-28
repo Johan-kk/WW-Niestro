@@ -1,43 +1,41 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>WW Niestro</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #111;
-      color: #fff;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      flex-direction: column;
-    }
-    h1 {
-      font-size: 3rem;
-      text-shadow: 0 0 20px #0ff;
-    }
-    .logo {
-      font-size: 5rem;
-      color: #00f2ff;
-      font-weight: bold;
-      text-transform: uppercase;
-      font-family: 'Courier New', Courier, monospace;
-      letter-spacing: 5px;
-    }
-    .subtitle {
-      margin-top: 10px;
-      font-size: 1.2rem;
-      color: #aaa;
-    }
-  </style>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="google-adsense-account" content="ca-pub-5870912031803336">
+    <title>WW Niestro — Главная</title>
+    <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
-  <div class="logo">WW Niestro ⚡</div>
-  <div class="subtitle">Digital Marketplace of the Future</div>
+    <header>
+        <h1>⚡ WW Niestro</h1>
+        <nav>
+            <a href="index.html">Главная</a>
+            <a href="#categories">Категории</a>
+            <a href="#products">Товары</a>
+            <a href="#contact">Контакты</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Маркетплейс будущего</h2>
+        <p>Мировой выбор. Реальные цены. Товары с AliExpress, Ozon и других.</p>
+        <input type="text" placeholder="🔍 Поиск товаров...">
+    </section>
+
+    <section id="products" class="products">
+        <h3>🔥 Товар дня</h3>
+        <div class="product">
+            <img src="https://ae01.alicdn.com/kf/S91c38317eac245ab9f52e1927c0f91f5m.jpg" alt="Товар 1">
+            <h4>Умные часы T800 Ultra</h4>
+            <p>Цена: $23.99</p>
+            <a href="https://aliexpress.com/item/1005006203234894.html" target="_blank">Перейти</a>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <p>&copy; 2025 WW Niestro. Связь: info@wwniestro.com</p>
+    </footer>
 </body>
 </html>
